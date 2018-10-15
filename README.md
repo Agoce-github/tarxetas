@@ -12,3 +12,4 @@ Arriba á dereita tes a opción de __clonar ou descargar__ a carpeta para trabal
 
 Orixinalmente [atopeino aquí](http://designwoop.com/2013/12/30-open-source-css3-code-samples-web-developers/) pero fun tuneando paseniño unha das dúas versións
 
+Orixe: [este artigo de i-rochiño](https://wp.me/p2OwJM-1ak)
