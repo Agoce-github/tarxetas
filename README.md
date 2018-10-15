@@ -4,7 +4,7 @@
 
 Neste exercicio tes que modificar todo o que poidas para demostrar que entendes todas as etiquetas, propiedades, atributos,...
 
-Á dereita tes a opción de __clonar ou descargar__ a carpeta para traballar en local no teu ordenador. O contido non é moi especial:
+Arriba á dereita tes a opción de __clonar ou descargar__ a carpeta para traballar en local no teu ordenador. O contido non é moi especial:
 
 * index.html
 * estilo.css
